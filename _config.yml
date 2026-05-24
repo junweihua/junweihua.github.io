@@ -27,7 +27,7 @@ author:
   name             : "Junwei Hua"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Physical OCNG"
-  location         : "College Station, Texas, United States"
+  location         : "College Station, Texas"
   employer         : "Texas A&M University (TAMU)"
   uri              : "https://junweihua.github.io"
   email            : "jhua@tamu.edu" 
@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=gY5Ch6wAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0007-9711-6614"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

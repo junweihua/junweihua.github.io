@@ -16,5 +16,5 @@ I am a PhD student at TAMU. I am interested in using machine learning tools to i
   *Institute of Oceanology, University of Chinese Academy of Sciences (UCAS), Beijing, China*
 
 * **B.S. in Marine Science (Joint Education)** <span style="float:right;">Aug. 2017 - Jul. 2021</span>  
-  *Ocean University of China (OUC), Qingdao, China* ```
+  *Ocean University of China (OUC), Qingdao, China*
 

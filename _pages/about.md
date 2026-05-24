@@ -1,8 +1,10 @@
 ---
-layout: about
-title: "About Me"
 permalink: /
+title: "About Me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a PhD student at TAMU. I am interested in using machine learning tools to investigate the unknown physics hidden within limited observational data and numerical modeling.
